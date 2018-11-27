@@ -8,6 +8,5 @@
  *   prism-highlighter.html
  */
 
-/// <reference path="prism-import.d.ts" />
 /// <reference path="prism-highlighter-src.d.ts" />
 
